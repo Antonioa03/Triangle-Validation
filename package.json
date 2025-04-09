@@ -1,0 +1,20 @@
+{
+  "name": "triangle-validation",
+  "version": "1.0.0",
+  "description": "Validador de tipos de triángulos",
+  "main": "src/triangle.js",
+  "scripts": {
+    "test": "jest --config=jest.config.js"
+  },
+  "keywords": [
+    "triangle",
+    "validation",
+    "jest",
+    "testing"
+  ],
+  "author": "Antonio Araujo Meza A01285470",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
